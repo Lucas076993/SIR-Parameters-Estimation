@@ -16,4 +16,4 @@ The idea behind the techniques applied in this project came from the works of Dr
 dinâmica da população infectada", submitted.
 
 ### Patch notes
-- 1.0.0: The estimation of the parameters using brazilian data was made. There was some problems with the estimation of french data, mainly because of inconsistencies in the data obtained. For future work, we will try to ajust the data from France to compare to Brazil or obtain new datasets. The code is not so well organized, so we will try to optimize and organize it in future patches.
+- 1.0.0: The estimation of the parameters using brazilian data was made. There was some problems with the estimation of french data, mainly because of inconsistencies in the data obtained. For future work, we will try to ajust the data from France to compare to Brazil or obtain new datasets. The code is not so well organized, so we will try to optimize and organize it in future patches. Due to being a to large file, the raw data used for Brazil estimation wasn't committed to the GitHub repo, but it can be accessed in https://opendatasus.saude.gov.br/dataset/srag-2021-a-2024.
